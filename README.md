@@ -1,4 +1,4 @@
-## Hi fauzialifatah👋
+## my github fauzialifatah🪸
 
 <p align="left">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="45" title="JavaScript"/>
@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/UbhiXGJk0k6jG/giphy.gif" width="45" title="HTML"/>
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="45" title="CSS"/>
 
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="45" title="Node.js"/>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45" title="PHP"/>
   <img src="https://media.giphy.com/media/SE7sVZvFaiDbp3DWR9/giphy.gif" width="45" title="Java"/>
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" title="Go"/>
@@ -24,11 +23,9 @@
   <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="45" title="MATLAB"/>
 
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" title="Bash"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="45" title="PowerShell"/>
 
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45" title="Ruby"/>
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45" title="Scala"/>
-  <img src="https://media.giphy.com/media/3o7TKxOhN2gB9z2t6M/giphy.gif" width="45" title="Perl"/>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" title="Haskell"/>
   <img src="https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif" width="45" title="Lua"/>
 </p>
