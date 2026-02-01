@@ -1,16 +1,5 @@
 <p align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com
-      ?font=Fira+Code
-      &size=28
-      &duration=2500
-      &pause=800
-      &color=FFFFFF
-      &vCenter=true
-      &width=520
-      &lines=Programming+Languages;Follow+GitHub;Creator+Fauzialifatah"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=000000&vCenter=true&width=520&lines=Programming+Languages" alt="Programming Languages" />
 </p>
 
 ---
