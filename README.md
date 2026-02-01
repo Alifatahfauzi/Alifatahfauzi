@@ -33,3 +33,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" title="Haskell"/>
   <img src="https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif" width="45" title="Lua"/>
 </p>
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alifatahfauzi&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF)
